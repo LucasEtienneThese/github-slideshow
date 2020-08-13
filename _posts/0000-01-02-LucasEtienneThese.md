@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The yes need the no to win against the no"
 Use the left arrow to go back!
